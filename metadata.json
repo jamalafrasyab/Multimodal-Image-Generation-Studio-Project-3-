@@ -1,0 +1,6 @@
+{
+  "name": "DecodeLabs Multimodal Image Generation Studio",
+  "description": "Industrial Training Kit Project 3: Production-grade multimodal visual orchestration pipeline with split-timeout gateways, dual security gates, chunked streaming, and automated QA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
